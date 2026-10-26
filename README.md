@@ -1,4 +1,6 @@
 # Radiant Pipsqueak
+this is a vibecoded tool for using openai tokens to read aloud sections of text
+
 
 Linux desktop app for fiction text readback using your own OpenAI API key.
 
